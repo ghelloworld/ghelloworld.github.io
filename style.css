@@ -1,7 +1,10 @@
 body {
-	font-size: 0.9em;
+	font-size: 16px;
 	font-family: 'Nunito';
-	background: lightcyan;
-	width: 800px;
+	width: 600px;
 	margin: auto;
+}
+
+img {
+	max-width: 100%;
 }
